@@ -1,5 +1,5 @@
 import { createContext, useContext, useEffect, useState } from "react";
-import { databases } from "../appwrite";
+import { databases } from "appwrite";
 import { ID, Query } from "appwrite";
 
 export const IDEAS_DATABASE_ID = "65d4b5e80aa70fbdecf4"; // Replace with your database ID
