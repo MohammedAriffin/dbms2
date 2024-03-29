@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "appwrite": "^13.0.2"
+    "appwrite": "^13.0.2",
+    "gitgraph": "^0.0.1"
   }
 }
